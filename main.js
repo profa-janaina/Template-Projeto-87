@@ -24,8 +24,7 @@ console.log(keyPressed);
 
 	if(keyPressed == '69')
 	{	block_x = 0;
-		new_image('rr1.png'); 
-		console.log("r");
+	 //envie a imagem do Ranger Escarlate
 	}
 	if(keyPressed == '86')
 	{
